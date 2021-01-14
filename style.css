@@ -1,0 +1,42 @@
+body {
+    text-align: center;
+    background: linear-gradient(#E1bee7 0%, #90CAF9);
+    backgroun-repeat: no-repeat;
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB-xJ5je9yQxAJsatlBzYUV4eIatFeKrtMyg&usqp=CAU');
+}
+
+h1 {
+    font-size: 20px;
+}
+
+#lines {
+    padding: 20px;
+    font-size: 18;
+    text-align: center;
+}
+
+.line {
+    width: 100px;
+    height: 15px;
+    background: #000;
+    margin-top: 100px;
+}
+
+.changes {
+    background-color: black;
+    color: white;
+}
+
+.menu {
+    list-style: none;
+    font-family: Cursive;
+    float: right;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    color: black;
+}
+
+#my hobby {
+    font-family: Cursive;
+}
